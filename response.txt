@@ -1,0 +1,9 @@
+I'd be happy to help you out.
+
+So, you're asking about HTML tags? That's a great topic! In our Sigma web development course, we cover HTML tags in more detail in Video 4. You can watch Video 4 to learn more about HTML tags, including the attributes and how to use them.
+
+In Video 4, we start by explaining the basics of HTML tags. We show how to use the tag to create a new document, and we even give an example of how to use the tag to create a simple HTML page. By the end of Video 4, you should have a good understanding of how HTML tags work and how to use them to create your own web pages.
+
+If you want to see the examples and explanations in Video 4, you can start at timestamp 0:40 and work your way through the video. That's where we start explaining the tag and its attributes in more detail.
+
+Does that make sense?

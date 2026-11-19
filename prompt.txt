@@ -1,0 +1,6 @@
+I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"number":"4","start":840.32,"end":842.32,"text":" .html, you can see"},{"number":"3","start":420.12,"end":421.92,"text":" which tell about this tag."},{"number":"1","start":494.9,"end":495.9,"text":" Suppose html."},{"number":"4","start":632.32,"end":634.32,"text":" P is a tag. P tag has an attribute"},{"number":"1","start":370.1,"end":371.5,"text":" Index.html"}]
+---------------------------------
+"What is an HTML tag?"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
